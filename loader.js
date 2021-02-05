@@ -349,7 +349,7 @@ script.onload = function(){
 	\
 	<div class="ui-field-contain"> \
 	<label for="max_voltage">Max Allowed Cell Voltage:</label> \
-	<input id="max_voltage" name="max_voltage" size="64" type="number" min="3.00" max="4.20" step="0.01" /> \
+	<input id="max_voltage" name="max_voltage" size="64" type="number" min="1.00" max="4.20" step="0.01" /> \
 	</div> \
 	\
 	<div class="ui-field-contain"> \
